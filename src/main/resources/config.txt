@@ -1,2 +1,2 @@
-DaoImpl
-MetierImpl
+com.marwane.dao.DaoImpl
+com.marwane.metier.MetierImpl
