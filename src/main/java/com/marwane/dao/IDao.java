@@ -1,4 +1,5 @@
 package com.marwane.dao;
 
-public class IDao {
+public interface IDao {
+    double getData();
 }

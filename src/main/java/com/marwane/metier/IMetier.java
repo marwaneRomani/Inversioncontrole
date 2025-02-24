@@ -1,4 +1,5 @@
 package com.marwane.metier;
 
-public class IMetier {
+public interface IMetier {
+    double calcul();
 }
